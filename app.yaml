@@ -1,4 +1,4 @@
-application: hale-aurora-94017
+application: bustling-dynamo-253414
 version: 1
 runtime: python27
 api_version: 1
@@ -13,12 +13,15 @@ handlers:
 
 - url: /charts
   static_dir: charts
+  # d3
 
 - url: /data-js
-  static_dir: data-js
+  static_dir: data-js  
+  # json files
 
 - url: /service
   script: service.app
+  # pieprasījumu apstrāde, REST
 
 - url: /style
   static_dir: style
