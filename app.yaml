@@ -19,6 +19,10 @@ handlers:
   static_dir: data-js  
   # json files
 
+- url: /js
+  static_dir: js 
+  # js files
+
 - url: /service
   script: service.app
   # pieprasījumu apstrāde, REST
