@@ -1,5 +1,56 @@
-body {
+body,h1,h2,h3,h4,h5 {
+  font-family: "Raleway", sans-serif;
   margin: 5%;
-  font-family: Arial;
 }
 
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.svg-container {
+  background-color: #FFC988;
+  }
+
+.column {
+display: flex;
+flex-direction: column;
+min-width: 120px;
+width: auto;
+text-align: center;
+}
+
+.column p {
+padding: 5px 0;
+background: pink;
+border-radius: 5px;
+margin: 2px 3px;
+}
+
+.column p:hover {
+padding: 5px 0;
+background: palevioletred;
+margin: 0;
+cursor: pointer;
+}
+
+.row {
+display: flex;
+flex-direction: row;
+}
+
+.activeEmo {
+background: greenyellow !important;
+}
+.emotion-box {
+margin: 10px;
+}
+.emotion-div {
+margin: 10px;
+}
