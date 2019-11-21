@@ -114,3 +114,38 @@ write(exportJson, file="match_shp_ranges_raw.json")
 
 
 
+
+
+
+aesthetics <- c("Kartiga","Patikama","Simetriska","Originala",
+                "Sarezgita", "Iespaidiga", "Radosa","Mulsinosa",
+                "Baudama","Nepatikama")
+rowRange <- 2:29
+# First 10 columns do not have emotion-shape matching data
+colOffset <- 336
+nAesthetics <- length(aesthetics)
+nShapes <- 17
+
+respID <- character(0)
+aesth <- character(0)
+shape <- character(0)
+for (row in rowRange) {
+  for (jj in 1:nShapes) {
+    for (ii in 1:nAesthetics) {
+      colN <- colOffset + (jj-1)*(nAesthetics+1) + ii
+      if (!is.na(df[row,colN]) & df[row,colN] == 1) {
+        respID <- c(respID,sprintf("%s",df$Response.ID[row]))
+        aesth <- c(aesth,aesthetics[ii])
+        shape <- c(shape,sprintf("%d",jj))
+      }
+    }
+  }
+}
+
+aesthDF <- data.frame(respID = respID, aesth = aesth, shape = shape)
+exportJson <- toJSON(aesthDF, matrix="rowmajor", pretty=TRUE)
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+write(exportJson, file="match_aesth_shp.json")
+
+
+
