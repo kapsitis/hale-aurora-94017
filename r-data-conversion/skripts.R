@@ -107,7 +107,7 @@ rangeDF <- data.frame(respID = respID,
                       rPatNepat = rPatNepat)
 exportJson <- toJSON(rangeDF, matrix="rowmajor", pretty=TRUE)
 #setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-write(exportJson, file="match_shp_ranges.json")
+write(exportJson, file="match_shp_ranges_raw.json")
 
 
 
