@@ -1,5 +1,10 @@
 library(jsonlite)
 
+###################################################################
+## Produce "match_emo_shp.json"
+## Every emotion is mapped to 1-3 geometric shapes.
+###################################################################
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 df <- read.table("RawData-emotions-shapes.csv", header=TRUE,sep=",")
 
@@ -47,7 +52,15 @@ exportJson <- toJSON(matchDF, matrix="rowmajor", pretty=TRUE)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 write(exportJson, file="match_emo_shp.json")
 
-# match_shp_ranges
+
+
+
+
+###################################################################
+## Produce "match_shp_ranges_raw.json"
+## Every shape is mapped to 7 different ranges of opposite emotions. 
+###################################################################
+
 respID <- character(0)
 shape <- character(0)
 ranges <- character(0)
@@ -95,6 +108,7 @@ for (row in rowRange) {
 }
 
 
+
 rangeDF <- data.frame(respID = respID, 
                       shape = shape, 
                       ranges = ranges,
@@ -114,8 +128,10 @@ write(exportJson, file="match_shp_ranges_raw.json")
 
 
 
-
-
+###################################################################
+## Produce "match_aesth_shp.json"
+## Every shape is mapped to 1-3 aesthetical concepts.
+###################################################################
 
 aesthetics <- c("Kartiga","Patikama","Simetriska","Originala",
                 "Sarezgita", "Iespaidiga", "Radosa","Mulsinosa",
@@ -148,4 +164,11 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 write(exportJson, file="match_aesth_shp.json")
 
 
+
+
+
+###################################################################
+## Produce "match_aesth_shp.json"
+## Every shape is mapped to 1-3 aesthetical concepts.
+###################################################################
 
