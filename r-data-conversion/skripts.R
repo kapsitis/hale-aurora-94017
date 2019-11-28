@@ -50,7 +50,7 @@ for (row in rowRange) {
 matchDF <- data.frame(respID = respID, emotion = emotion, shape = shape)
 exportJson <- toJSON(matchDF, matrix="rowmajor", pretty=TRUE)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-write(exportJson, file="match_emo_shp.json")
+write(exportJson, file="match_emo_shp1.json")
 
 
 
@@ -121,7 +121,7 @@ rangeDF <- data.frame(respID = respID,
                       rPatNepat = rPatNepat)
 exportJson <- toJSON(rangeDF, matrix="rowmajor", pretty=TRUE)
 #setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-write(exportJson, file="match_shp_ranges_raw.json")
+write(exportJson, file="match_shp_ranges_raw1.json")
 
 
 
@@ -161,7 +161,7 @@ for (row in rowRange) {
 aesthDF <- data.frame(respID = respID, aesth = aesth, shape = shape)
 exportJson <- toJSON(aesthDF, matrix="rowmajor", pretty=TRUE)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-write(exportJson, file="match_aesth_shp.json")
+write(exportJson, file="match_aesth_shp1.json")
 
 
 
@@ -171,4 +171,34 @@ write(exportJson, file="match_aesth_shp.json")
 ## Produce "match_aesth_shp.json"
 ## Every shape is mapped to 1-3 aesthetical concepts.
 ###################################################################
+
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+df <- read.table("RawData-shapes-emotions.csv", header=TRUE,sep=",")
+
+rowRange <- 2:30
+# First 10 columns do not have emotion-shape matching data
+colOffset <- 18
+nEmotions <- length(emotions)
+nShapes <- 17
+
+respID <- character(0)
+emotion <- character(0)
+shape <- character(0)
+for (row in rowRange) {
+  for (ii in 1:nShapes) {
+    for (jj in 1:nEmotions) {
+      colN <- colOffset + (ii-1)*(nEmotions + 1) + jj
+      if (!is.na(df[row,colN]) & df[row,colN] == 1) {
+        respID <- c(respID,sprintf("%s",df$Response.ID[row]))
+        shape <- c(shape,sprintf("%d",ii))
+        emotion <- c(emotion,emotions[jj])
+      }
+    }
+  }
+}
+
+shpEmoDF <- data.frame(respID = respID, shape = shape, emotion = emotion)
+exportJson <- toJSON(shpEmoDF, matrix="rowmajor", pretty=TRUE)
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+write(exportJson, file="match_shp_emo2.json")
 
