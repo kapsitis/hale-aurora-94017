@@ -1,11 +1,13 @@
 library(jsonlite)
+library(pheatmap)
 
 ###################################################################
 ## Produce "match_emo_shp.json"
 ## Every emotion is mapped to 1-3 geometric shapes.
 ###################################################################
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
 df <- read.table("RawData-emotions-shapes.csv", header=TRUE,sep=",")
 
 emotions <- c("Prieks",
@@ -159,7 +161,7 @@ for (row in rowRange) {
 
 aesthDF <- data.frame(respID = respID, aesth = aesth, shape = shape)
 exportJson <- toJSON(aesthDF, matrix="rowmajor", pretty=TRUE)
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 write(exportJson, file="match_aesth_shp1.json")
 
 
@@ -171,7 +173,7 @@ write(exportJson, file="match_aesth_shp1.json")
 ## Every shape is mapped to 1-3 aesthetical concepts.
 ###################################################################
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 df <- read.table("RawData-shapes-emotions.csv", header=TRUE,sep=",")
 
 rowRange <- 2:30
@@ -198,7 +200,7 @@ for (row in rowRange) {
 
 shpEmoDF <- data.frame(respID = respID, shape = shape, emotion = emotion)
 exportJson <- toJSON(shpEmoDF, matrix="rowmajor", pretty=TRUE)
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 write(exportJson, file="match_shp_emo2.json")
 
 
@@ -232,7 +234,7 @@ for (row in rowRange) {
     
     if (!is.na(df[row,colN1])) {
       
-      print(sprintf("*** (%d,%d), frst = %s; colN = %d", row,jj, rrr, colN1))
+      #print(sprintf("*** (%d,%d), frst = %s; colN = %d", row,jj, rrr, colN1))
       theID <- sprintf("%s",df$Response.ID[row])
       if (theID == "NA") {
         theID <- sprintf("r%d",(row+1))
@@ -288,24 +290,29 @@ write.table(rangeDF2, file="match_shp_ranges_raw2.csv", quote = TRUE,  col.names
 ## HEATMAP
 ##########################################
 
-pictureIDs <- c("1","6", "7", "8", "9", "10", "11", "13", "14", "15", "16", "17")
-scaleIDs <- c("rLaimNelaim", "rCerIzmis", "rUztrMier", "rBrivIerob", "rApmAizkait", "rInterGarl", "rPatNepat")
-mat <- matrix(rep(0,times=12*7), nrow = 12, ncol = 7, dimnames = list(pictureIDs,scaleIDs))
 
-mat[1,1] = 30
-
-remove.factors(rangeDF2)
-
-for (pictureID in pictureIDs) {
+getMatrix <- function() {
+  pictureIDs <- c("1","6", "7", "8", "9", "10", "11", "13", "14", "15", "16", "17")
+  scaleIDs <- c("rLaimNelaim", "rCerIzmis", "rUztrMier", "rBrivIerob", "rApmAizkait", "rInterGarl", "rPatNepat")
+  mat <- matrix(rep(0,times=12*7), nrow = 12, ncol = 7, dimnames = list(pictureIDs,scaleIDs))
+  
+  #remove.factors(rangeDF2)
   for (scaleID in scaleIDs) {
-    mat[scaleID, pictureID] <- sd(as.numeric(as.character(
-      rangeDF2[rangeDF2$shape==as.numeric(pictureID),scaleID])))
+    levels(droplevels(rangeDF2[[scaleID]]))
   }
+  
+  for (pictureID in pictureIDs) {
+    for (scaleID in scaleIDs) {
+      mat[pictureID, scaleID] <- sd(as.numeric(as.character(
+        rangeDF2[rangeDF2$shape==as.numeric(pictureID),scaleID])))
+    }
+  }
+  
 }
 
-png(file = "heatmap-sd-shape-intervals-dataset2.png", bg = "transparent", type="cairo", units="in", width=5,  height=4, pointsize=12, res=96)
-pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, cluster_rows=F, cluster_cols=F)
-dev.off()
+#png(file = "heatmap-sd-shape-intervals-dataset2.png", bg = "transparent", type="cairo", units="in", width=5,  height=4, pointsize=12, res=96)
+#pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, cluster_rows=F, cluster_cols=F)
+#dev.off()
 
 
 
