@@ -47,9 +47,10 @@ flex-direction: row;
 .activeEmo {
 background: greenyellow !important;
 }
-p.activeShp {
+p.activeShp, p.activeShpAsth {
 background: greenyellow ;
 }
+
 .emotion-box {
 margin: 10px;
 }
@@ -57,7 +58,7 @@ margin: 10px;
 margin: 10px;
 }
 
-.shape {
+.shape, .shape-ast {
 background-repeat: no-repeat !important; 
 background-position: center !important; 
 height:40px;
