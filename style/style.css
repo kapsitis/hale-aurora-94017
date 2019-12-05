@@ -1,6 +1,5 @@
 body,h1,h2,h3,h4,h5 {
-  font-family: "Raleway", sans-serif;
-  margin: 5%;
+  font-family: "Raleway", sans-serif
 }
 
 .axis {
@@ -48,9 +47,18 @@ flex-direction: row;
 .activeEmo {
 background: greenyellow !important;
 }
+p.activeShp {
+background: greenyellow ;
+}
 .emotion-box {
 margin: 10px;
 }
 .emotion-div {
 margin: 10px;
+}
+
+.shape {
+background-repeat: no-repeat !important; 
+background-position: center !important; 
+height:40px;
 }

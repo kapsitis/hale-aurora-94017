@@ -23,39 +23,70 @@
 </head>
 <body>
 
-<h1>Virsraksts</h1>
+<h1>Emociju un Figūru attiecības</h1>
 
-<p>Atslēga ir '{{key}}'.</p>
     <div>
         <div class="w3-container" id="test">
             <div class="emotion-box">
                 <div class="row">
-                        <div class="column">
-                            <p id="Prieks" class="emotion">Prieks</p>
-                            <p id="Milestiba" class="emotion">Mīlestība</p>
-                            <p id="Apmierinajums" class="emotion">Apmierinājums</p>
-                            <p id="Mundrums" class="emotion">Mundrums</p>
-                            <p id="Ceriba" class="emotion">Cerība</p>
-                            <p id="Sajusminajums" class="emotion">Sajūsminājums</p>
-                        </div>
-                        <div class="column">
-                            <p id="Bazas" class="emotion">Bažas</p>
-                            <p id="Skumjas" class="emotion">Skumjas</p>
-                            <p id="Riebums" class="emotion">Riebums</p>
-                            <p id="Dusmas" class="emotion">Dusmas</p>
-                            <p id="Vaina" class="emotion">Vaina</p>
-                            <p id="Bailes" class="emotion">Bailes</p>
-                        </div>
-                        <div class="column emotion-div" id="emotion-div">
-                            <svg id="emotion-bars"></svg>
-                        </div>
+                    <div class="column">
+                        <p id="Prieks" class="emotion activeEmo">Prieks</p>
+                        <p id="Milestiba" class="emotion">Mīlestība</p>
+                        <p id="Apmierinajums" class="emotion">Apmierinājums</p>
+                        <p id="Mundrums" class="emotion">Mundrums</p>
+                        <p id="Ceriba" class="emotion">Cerība</p>
+                        <p id="Sajusminajums" class="emotion">Sajūsminājums</p>
                     </div>
-                    
+                    <div class="column">
+                        <p id="Bazas" class="emotion">Bažas</p>
+                        <p id="Skumjas" class="emotion">Skumjas</p>
+                        <p id="Riebums" class="emotion">Riebums</p>
+                        <p id="Dusmas" class="emotion">Dusmas</p>
+                        <p id="Vaina" class="emotion">Vaina</p>
+                        <p id="Bailes" class="emotion">Bailes</p>
+                    </div>
+                    <div class="column emotion-div" id="emotion-div">
+                        <svg id="emotion-bars"></svg>
+                    </div>
+                </div>
             </div>
-            
         </div>
-        <script src="./index.js"></script>
-        <script src="/js/index.js"></script>
+        <script src="./js/index.js"></script>
+
+        <div class="w3-container" id="test2">
+            <div class="emotion-box">
+                <div class="row">
+                    <div class="column">
+                        <p id="1" class="shape activeShp" style="background-image: url(shape_svg/1.svg);"></p>
+                        <p id="2" class="shape" style="background-image: url(shape_svg/2.svg);"></p>
+                        <p id="3" class="shape" style="background-image: url(./shape_svg/3.svg);"></p>
+                        <p id="4" class="shape" style="background-image: url(./shape_svg/4.svg);"></p>
+                        <p id="5" class="shape" style="background-image: url(./shape_svg/5.svg);"></p>
+                        <p id="6" class="shape" style="background-image: url(./shape_svg/6.svg);"></p>
+                        
+                    </div>
+                    <div class="column">
+                        <p id="7" class="shape" style="background-image: url(./shape_svg/7.svg);"></p>
+                        <p id="8" class="shape" style="background-image: url(./shape_svg/8.svg);"></p>
+                        <p id="9" class="shape" style="background-image: url(./shape_svg/9.svg);"></p>
+                        <p id="10" class="shape" style="background-image: url(./shape_svg/10.svg);"></p>
+                        <p id="11" class="shape" style="background-image: url(./shape_svg/11.svg);"></p>
+                        <p id="12" class="shape" style="background-image: url(./shape_svg/12.svg);"></p>
+                    </div>
+                    <div class="column">
+                            <p id="13" class="shape" style="background-image: url(./shape_svg/13.svg);"></p>
+                        <p id="14" class="shape" style="background-image: url(./shape_svg/14.svg);"></p>
+                        <p id="15" class="shape" style="background-image: url(./shape_svg/15.svg);"></p>
+                        <p id="16" class="shape" style="background-image: url(./shape_svg/16.svg);"></p>
+                        <p id="17" class="shape" style="background-image: url(./shape_svg/17.svg);"></p>
+                    </div>
+                    <div class="column shape-div" id="shape-div">
+                        <svg id="shape-bars"></svg>
+                    </div>
+                </div>  
+            </div>
+        </div>
+        <script src="./js/shp_emp.js"></script>
     </div>
 
 </body>

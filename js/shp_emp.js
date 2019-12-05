@@ -1,15 +1,17 @@
-function init() {
-    loadJSON(function(response) {
-        var actual_JSON = JSON.parse(response);
+// ----------------------- match_shp_emo
 
-        listenToEmotionSelect(actual_JSON);
+
+function initShapes() {
+    loadShpJSON(function(response) {
+        var actual_shp_JSON = JSON.parse(response);
+        listenToShapeSelect(actual_shp_JSON);
     });
 }
 
-function loadJSON(callback) {   
+function loadShpJSON(callback) {   
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    xobj.open('GET', './data-js/match_emo_shp.json', true);
+    xobj.open('GET', './data-js/match_shp_emo.json', true);
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -18,57 +20,61 @@ function loadJSON(callback) {
     xobj.send(null);  
 }
 
-function sort(emocija, json) {
-    var bailes = Object.values(json).filter((n) => {
-        return n[1] === emocija;
+function sortShape(figura, json) {
+    var figuras = Object.values(json).filter((n) => {
+        return n.shape === figura;
     });
-    var result = { 1:0.1, 2:0.1, 3:0.1, 4:0.1, 5:0.1, 6:0.1, 7:0.1, 8:0.1, 9:0.1, 10:0.1, 11:0.1, 12:0.1, 13:0.1, 14:0.1, 15:0.1, 16:0.1, 17:0.1}
+    var resultShp = { 'Prieks':0.1, 'Milestiba':0.1, 
+    'Apmierinajums':0.1, 'Mundrums':0.1, 
+    'Ceriba':0.1, 'Sajusminajums':0.1, 
+    'Bazas':0.1, 'Skumjas':0.1, 'Riebums':0.1, 
+    'Vaina':0.1, 'Bailes':0.1, 'Dusmas': 0.1}
 
-    Object.values(bailes).forEach((n) => {
-        var fig = n[2];
-        result[fig] = result[fig] + 1;
+    Object.values(figuras).forEach((n) => {
+        var emo = n.emotion;
+        resultShp[emo] = resultShp[emo] + 1;
     });
 
-    var output = Object.entries(result).map(([key, value]) => ({key,value}));
+    var outputShp = Object.entries(resultShp).map(([key, value]) => ({key,value}));
     
-    output.sort(function(a, b) { 
+    outputShp.sort(function(a, b) { 
         return b.value - a.value;
     });
 
-    drawChart(output);
+    drawShapeChart(outputShp);
 }
 
-function listenToEmotionSelect(json) {
-    sort("Prieks", json); // on initial call to draw bars for 'Prieks'
-    document.querySelectorAll('.emotion').forEach(item => {
+function listenToShapeSelect(json) {
+    sortShape("1", json); // on initial call to draw bars for shape 1
+    document.querySelectorAll('.shape').forEach(item => {
         item.addEventListener('click', event => {
-            removeActive();
-            sort(event.srcElement.id, json);
-            event.srcElement.classList.add('activeEmo');
+            removeActiveShp();
+            sortShape(event.srcElement.id, json);
+            event.srcElement.classList.add('activeShp');
         })
     });
 }
 
-function removeActive() {
-    document.querySelectorAll('.emotion').forEach(item => {
-        item.classList.remove('activeEmo');
+function removeActiveShp() {
+    document.querySelectorAll('.shape').forEach(item => {
+        item.classList.remove('activeShp');
     });
 }
 
-function drawChart(values) {
+function drawShapeChart(values) {
     var dataset = values;
 
     var svgWidth = 500;
     var charWidth = 410;
-    var svgHeight = 280;
+    var svgHeight = 300;
     var barHeight = 210;
     var barPadding = 7;
     var barWidth = (charWidth / dataset.length);
 
     var scale = svgHeight / dataset[0].value;
-    document.getElementById("emotion-bars").remove()
+    document.getElementById("shape-bars").remove()
     
-    var barSvg = d3.select('#emotion-div').append("svg").attr("id", "emotion-bars");
+    var barSvg = d3.select('#shape-div').append("svg").attr("id", "shape-bars");
     barSvg.attr('width', svgWidth)
         .attr('height', svgHeight);
     
@@ -86,34 +92,24 @@ function drawChart(values) {
     // labels on x
     barSvg.append("g")
         .attr("transform", "translate(30, 230)")
-        .attr("class", "axis")
         .call(d3.axisBottom(x))
         .selectAll("text")
-        .style("text-anchor", "end")
-        .style("display", "none");
-
-
-    barSvg.select(".axis").selectAll(".tick")
-        .data(dataset)
-        .append("svg:image")
-        .attr("xlink:href", function (d) { return "./shape_svg/" + d.key + ".svg" })
-        .attr("width", 20)
-        .attr("height", 20)
-        .attr("x", -10)
-        .attr("y", 6);
+        .attr("y", 2)
+        .attr("transform", "rotate(-70)")
+        .style("text-anchor", "end");
 
     barSvg.append("text")             
         .attr("transform",
-              "translate(465, 240)")
+              "translate(470, 240)")
         .style("text-anchor", "middle")
-        .text("Figūra");
+        .text("Emocija");
 
     // labels on y
     barSvg.append("g")
         .call(d3.axisLeft(y))
         .attr("transform", "translate(30, 20)");
 
-    // bars
+    // // bars
     barSvg.selectAll('rect')
         .data(dataset) // provide the data in waiting state
         .enter() // enter method takes the dataset and complete futher operations
@@ -128,7 +124,7 @@ function drawChart(values) {
         .attr("fill", function(d, i){return color(i) });
 
         
-    // Animation
+    // // Animation
     barSvg.selectAll('rect')
         .transition()
         .duration(500)
@@ -137,4 +133,4 @@ function drawChart(values) {
         .delay(function(d,i){ return((i+1)*50)});
 }
 
-init();
+initShapes();
