@@ -1,0 +1,3112 @@
+[
+  {
+    "respID": "36319609",
+    "emotion": "Prieks",
+    "shape": "4"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Milestiba",
+    "shape": "5"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Mundrums",
+    "shape": "1"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Ceriba",
+    "shape": "5"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Bazas",
+    "shape": "8"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Vaina",
+    "shape": "10"
+  },
+  {
+    "respID": "36319609",
+    "emotion": "Bailes",
+    "shape": "12"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Apmierinajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Apmierinajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Mundrums",
+    "shape": "4"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Ceriba",
+    "shape": "11"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Sajusminajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Sajusminajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Bazas",
+    "shape": "13"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Bazas",
+    "shape": "17"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Vaina",
+    "shape": "8"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36319851",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Prieks",
+    "shape": "9"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Milestiba",
+    "shape": "12"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Apmierinajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Mundrums",
+    "shape": "2"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Ceriba",
+    "shape": "3"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Ceriba",
+    "shape": "17"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Bazas",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Bazas",
+    "shape": "11"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Skumjas",
+    "shape": "17"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Dusmas",
+    "shape": "15"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Vaina",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Vaina",
+    "shape": "11"
+  },
+  {
+    "respID": "36321075",
+    "emotion": "Bailes",
+    "shape": "16"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Prieks",
+    "shape": "9"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Milestiba",
+    "shape": "16"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Sajusminajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Bazas",
+    "shape": "11"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Vaina",
+    "shape": "15"
+  },
+  {
+    "respID": "36321263",
+    "emotion": "Bailes",
+    "shape": "8"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Apmierinajums",
+    "shape": "4"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Apmierinajums",
+    "shape": "13"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Mundrums",
+    "shape": "13"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Ceriba",
+    "shape": "8"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Ceriba",
+    "shape": "13"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Sajusminajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Sajusminajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Bazas",
+    "shape": "10"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Skumjas",
+    "shape": "1"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Skumjas",
+    "shape": "17"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Dusmas",
+    "shape": "2"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Dusmas",
+    "shape": "5"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Vaina",
+    "shape": "7"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Vaina",
+    "shape": "8"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Vaina",
+    "shape": "15"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Bailes",
+    "shape": "5"
+  },
+  {
+    "respID": "36321729",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Prieks",
+    "shape": "14"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Prieks",
+    "shape": "17"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Mundrums",
+    "shape": "12"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Sajusminajums",
+    "shape": "1"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Bazas",
+    "shape": "5"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Skumjas",
+    "shape": "7"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Vaina",
+    "shape": "15"
+  },
+  {
+    "respID": "36323264",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Prieks",
+    "shape": "15"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Milestiba",
+    "shape": "8"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Apmierinajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Bazas",
+    "shape": "5"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Skumjas",
+    "shape": "17"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Vaina",
+    "shape": "11"
+  },
+  {
+    "respID": "36324557",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Apmierinajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Ceriba",
+    "shape": "14"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Bazas",
+    "shape": "12"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Skumjas",
+    "shape": "7"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Riebums",
+    "shape": "1"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Dusmas",
+    "shape": "1"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Vaina",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Milestiba",
+    "shape": "12"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Apmierinajums",
+    "shape": "2"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Mundrums",
+    "shape": "8"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Ceriba",
+    "shape": "1"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Bazas",
+    "shape": "14"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Skumjas",
+    "shape": "9"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Skumjas",
+    "shape": "10"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Riebums",
+    "shape": "11"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Vaina",
+    "shape": "13"
+  },
+  {
+    "respID": "36388843",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Milestiba",
+    "shape": "17"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Apmierinajums",
+    "shape": "8"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Ceriba",
+    "shape": "7"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Sajusminajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Bazas",
+    "shape": "4"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Skumjas",
+    "shape": "3"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Riebums",
+    "shape": "5"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36419835",
+    "emotion": "Bailes",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Milestiba",
+    "shape": "17"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Apmierinajums",
+    "shape": "2"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Apmierinajums",
+    "shape": "4"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Apmierinajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Apmierinajums",
+    "shape": "13"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Mundrums",
+    "shape": "4"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Mundrums",
+    "shape": "13"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Mundrums",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Ceriba",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Sajusminajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Sajusminajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Bazas",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Bazas",
+    "shape": "10"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Skumjas",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Riebums",
+    "shape": "12"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Dusmas",
+    "shape": "6"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Dusmas",
+    "shape": "12"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Vaina",
+    "shape": "7"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Vaina",
+    "shape": "15"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Bailes",
+    "shape": "7"
+  },
+  {
+    "respID": "36529963",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Prieks",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Prieks",
+    "shape": "13"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Milestiba",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Milestiba",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Apmierinajums",
+    "shape": "8"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Mundrums",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Ceriba",
+    "shape": "1"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Sajusminajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Bazas",
+    "shape": "2"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Bazas",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Skumjas",
+    "shape": "3"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Skumjas",
+    "shape": "17"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Dusmas",
+    "shape": "16"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Vaina",
+    "shape": "7"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Vaina",
+    "shape": "16"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36538825",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Prieks",
+    "shape": "7"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Milestiba",
+    "shape": "11"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Apmierinajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Mundrums",
+    "shape": "4"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Ceriba",
+    "shape": "2"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Bazas",
+    "shape": "14"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Vaina",
+    "shape": "12"
+  },
+  {
+    "respID": "36566947",
+    "emotion": "Bailes",
+    "shape": "5"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Sajusminajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Dusmas",
+    "shape": "1"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Vaina",
+    "shape": "5"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Bailes",
+    "shape": "6"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Prieks",
+    "shape": "15"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Apmierinajums",
+    "shape": "13"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Ceriba",
+    "shape": "13"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Sajusminajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Bazas",
+    "shape": "11"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Riebums",
+    "shape": "17"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Vaina",
+    "shape": "14"
+  },
+  {
+    "respID": "36589573",
+    "emotion": "Bailes",
+    "shape": "7"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Prieks",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Milestiba",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Milestiba",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Milestiba",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Apmierinajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Mundrums",
+    "shape": "3"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Mundrums",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Ceriba",
+    "shape": "5"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Ceriba",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Sajusminajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Bazas",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Bazas",
+    "shape": "11"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Dusmas",
+    "shape": "11"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Vaina",
+    "shape": "9"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Vaina",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Vaina",
+    "shape": "15"
+  },
+  {
+    "respID": "36590214",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Prieks",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Milestiba",
+    "shape": "7"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Mundrums",
+    "shape": "5"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Ceriba",
+    "shape": "13"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Sajusminajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Skumjas",
+    "shape": "10"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Dusmas",
+    "shape": "5"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36590442",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Prieks",
+    "shape": "9"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Milestiba",
+    "shape": "12"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Apmierinajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Riebums",
+    "shape": "17"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Dusmas",
+    "shape": "14"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Vaina",
+    "shape": "8"
+  },
+  {
+    "respID": "36591510",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Prieks",
+    "shape": "17"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Milestiba",
+    "shape": "6"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Milestiba",
+    "shape": "8"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Apmierinajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Mundrums",
+    "shape": "1"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Mundrums",
+    "shape": "5"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Sajusminajums",
+    "shape": "13"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bazas",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Skumjas",
+    "shape": "1"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Skumjas",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Skumjas",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Dusmas",
+    "shape": "15"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Vaina",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Prieks",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Prieks",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Milestiba",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Milestiba",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Apmierinajums",
+    "shape": "2"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Ceriba",
+    "shape": "7"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Bazas",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Bazas",
+    "shape": "17"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Dusmas",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Vaina",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Vaina",
+    "shape": "17"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "emotion": "Bailes",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Prieks",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Prieks",
+    "shape": "15"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Milestiba",
+    "shape": "6"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Milestiba",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Mundrums",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Mundrums",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Ceriba",
+    "shape": "8"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Ceriba",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Sajusminajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Sajusminajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bazas",
+    "shape": "8"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bazas",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bazas",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Skumjas",
+    "shape": "5"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Skumjas",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Riebums",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Riebums",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Dusmas",
+    "shape": "7"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Dusmas",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Vaina",
+    "shape": "2"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Vaina",
+    "shape": "4"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Vaina",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bailes",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bailes",
+    "shape": "2"
+  },
+  {
+    "respID": "36593201",
+    "emotion": "Bailes",
+    "shape": "8"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Prieks",
+    "shape": "13"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Milestiba",
+    "shape": "11"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Mundrums",
+    "shape": "15"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Bazas",
+    "shape": "2"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Bazas",
+    "shape": "11"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Skumjas",
+    "shape": "1"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36606637",
+    "emotion": "Bailes",
+    "shape": "2"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Prieks",
+    "shape": "7"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Ceriba",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Sajusminajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Bazas",
+    "shape": "4"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Bazas",
+    "shape": "14"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Skumjas",
+    "shape": "5"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Skumjas",
+    "shape": "17"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Riebums",
+    "shape": "2"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Dusmas",
+    "shape": "14"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Vaina",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "emotion": "Bailes",
+    "shape": "10"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Milestiba",
+    "shape": "17"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Mundrums",
+    "shape": "1"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Ceriba",
+    "shape": "17"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Bazas",
+    "shape": "14"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Riebums",
+    "shape": "7"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Vaina",
+    "shape": "4"
+  },
+  {
+    "respID": "36640549",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Prieks",
+    "shape": "12"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Prieks",
+    "shape": "16"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Milestiba",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Milestiba",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Apmierinajums",
+    "shape": "2"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Apmierinajums",
+    "shape": "7"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Apmierinajums",
+    "shape": "8"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Apmierinajums",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Mundrums",
+    "shape": "16"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Ceriba",
+    "shape": "5"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Sajusminajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Sajusminajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Sajusminajums",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Riebums",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Vaina",
+    "shape": "4"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Vaina",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Bailes",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "emotion": "Bailes",
+    "shape": "17"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Prieks",
+    "shape": "8"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Milestiba",
+    "shape": "14"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Apmierinajums",
+    "shape": "3"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Apmierinajums",
+    "shape": "4"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Apmierinajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Mundrums",
+    "shape": "6"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Ceriba",
+    "shape": "12"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Sajusminajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Bazas",
+    "shape": "17"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Skumjas",
+    "shape": "13"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Riebums",
+    "shape": "15"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Dusmas",
+    "shape": "11"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Vaina",
+    "shape": "11"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Bailes",
+    "shape": "1"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Bailes",
+    "shape": "13"
+  },
+  {
+    "respID": "36649055",
+    "emotion": "Bailes",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Prieks",
+    "shape": "3"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Prieks",
+    "shape": "6"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Prieks",
+    "shape": "16"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Milestiba",
+    "shape": "3"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Milestiba",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Apmierinajums",
+    "shape": "6"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Apmierinajums",
+    "shape": "16"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Apmierinajums",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Mundrums",
+    "shape": "12"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Ceriba",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Sajusminajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Bazas",
+    "shape": "8"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Bazas",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Bazas",
+    "shape": "15"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Skumjas",
+    "shape": "8"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Riebums",
+    "shape": "1"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Riebums",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Dusmas",
+    "shape": "5"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Dusmas",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Dusmas",
+    "shape": "12"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Vaina",
+    "shape": "8"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Vaina",
+    "shape": "11"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Bailes",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "emotion": "Bailes",
+    "shape": "11"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Prieks",
+    "shape": "9"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Milestiba",
+    "shape": "8"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Milestiba",
+    "shape": "13"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Apmierinajums",
+    "shape": "5"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Apmierinajums",
+    "shape": "12"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Apmierinajums",
+    "shape": "14"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Mundrums",
+    "shape": "9"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Mundrums",
+    "shape": "11"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Mundrums",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Ceriba",
+    "shape": "6"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Ceriba",
+    "shape": "16"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Sajusminajums",
+    "shape": "9"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Sajusminajums",
+    "shape": "11"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Sajusminajums",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Bazas",
+    "shape": "7"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Bazas",
+    "shape": "17"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Skumjas",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Riebums",
+    "shape": "2"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Riebums",
+    "shape": "10"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Dusmas",
+    "shape": "2"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Dusmas",
+    "shape": "10"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Vaina",
+    "shape": "1"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Vaina",
+    "shape": "3"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Bailes",
+    "shape": "1"
+  },
+  {
+    "respID": "36752817",
+    "emotion": "Bailes",
+    "shape": "5"
+  }
+]

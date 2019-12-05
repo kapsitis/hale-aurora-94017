@@ -1,0 +1,4907 @@
+[
+  {
+    "respID": "36319609",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Nepatikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Radosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Iespaidiga",
+    "shape": "9"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Sarezgita",
+    "shape": "10"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Iespaidiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Iespaidiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Sarezgita",
+    "shape": "16"
+  },
+  {
+    "respID": "36319609",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Nepatikama",
+    "shape": "3"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Kartiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Sarezgita",
+    "shape": "6"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Nepatikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Baudama",
+    "shape": "8"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Baudama",
+    "shape": "12"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Originala",
+    "shape": "13"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Baudama",
+    "shape": "14"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36319851",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Nepatikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Patikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Mulsinosa",
+    "shape": "10"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36321075",
+    "aesth": "Baudama",
+    "shape": "17"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Nepatikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Originala",
+    "shape": "8"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36321263",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Iespaidiga",
+    "shape": "7"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Baudama",
+    "shape": "7"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Nepatikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Iespaidiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Nepatikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Baudama",
+    "shape": "14"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36321729",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "2"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "3"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "8"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "8"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "10"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Baudama",
+    "shape": "11"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "12"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Radosa",
+    "shape": "12"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Originala",
+    "shape": "14"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Nepatikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36323264",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Patikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Baudama",
+    "shape": "15"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36324557",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Radosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Baudama",
+    "shape": "10"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Radosa",
+    "shape": "11"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Nepatikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Kartiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Mulsinosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36357326",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Patikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Radosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Radosa",
+    "shape": "13"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36388843",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Nepatikama",
+    "shape": "3"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Kartiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Mulsinosa",
+    "shape": "10"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Originala",
+    "shape": "11"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Sarezgita",
+    "shape": "13"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Mulsinosa",
+    "shape": "13"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "15"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36419835",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Radosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Radosa",
+    "shape": "10"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Baudama",
+    "shape": "13"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Originala",
+    "shape": "15"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Radosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36529963",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "1"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "3"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Nepatikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Iespaidiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Radosa",
+    "shape": "14"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Baudama",
+    "shape": "14"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Kartiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Patikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36538825",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Iespaidiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Patikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Iespaidiga",
+    "shape": "7"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Baudama",
+    "shape": "8"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Nepatikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Iespaidiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Radosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36566947",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Iespaidiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Originala",
+    "shape": "6"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Baudama",
+    "shape": "7"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Iespaidiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Baudama",
+    "shape": "12"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Mulsinosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36567160",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Iespaidiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Mulsinosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Kartiga",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Kartiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36589573",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Originala",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Originala",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "8"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Nepatikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Originala",
+    "shape": "14"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Kartiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Sarezgita",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36590214",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Iespaidiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Sarezgita",
+    "shape": "8"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Radosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Radosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36590442",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Iespaidiga",
+    "shape": "4"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Nepatikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Sarezgita",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Sarezgita",
+    "shape": "8"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Originala",
+    "shape": "10"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Iespaidiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Baudama",
+    "shape": "10"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Sarezgita",
+    "shape": "12"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Nepatikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Iespaidiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Baudama",
+    "shape": "13"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Iespaidiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Baudama",
+    "shape": "17"
+  },
+  {
+    "respID": "36591510",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "4"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Patikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Sarezgita",
+    "shape": "12"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Mulsinosa",
+    "shape": "12"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Nepatikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Originala",
+    "shape": "14"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Radosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Radosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36591521",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Radosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Baudama",
+    "shape": "3"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Nepatikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Baudama",
+    "shape": "10"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Baudama",
+    "shape": "11"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Radosa",
+    "shape": "14"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Originala",
+    "shape": "15"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36593041",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Baudama",
+    "shape": "2"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Iespaidiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Radosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Originala",
+    "shape": "8"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Nepatikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Nepatikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "11"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Patikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Kartiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Baudama",
+    "shape": "15"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Originala",
+    "shape": "16"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "16"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Mulsinosa",
+    "shape": "16"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36593201",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "6"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "14"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "14"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Baudama",
+    "shape": "14"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36606637",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Kartiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Iespaidiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "5"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Radosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Mulsinosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Kartiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Baudama",
+    "shape": "11"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Nepatikama",
+    "shape": "12"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Baudama",
+    "shape": "13"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36640279",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Iespaidiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Originala",
+    "shape": "5"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Sarezgita",
+    "shape": "6"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Baudama",
+    "shape": "9"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Baudama",
+    "shape": "11"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "12"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Originala",
+    "shape": "14"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Simetriska",
+    "shape": "16"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Iespaidiga",
+    "shape": "17"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36640549",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "2"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "2"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Baudama",
+    "shape": "3"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Patikama",
+    "shape": "4"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Originala",
+    "shape": "4"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "6"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "6"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Mulsinosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Baudama",
+    "shape": "8"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Patikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "10"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Baudama",
+    "shape": "14"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Iespaidiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Kartiga",
+    "shape": "16"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "16"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36642697",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "1"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Mulsinosa",
+    "shape": "2"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Patikama",
+    "shape": "3"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Simetriska",
+    "shape": "4"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Kartiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Radosa",
+    "shape": "6"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Sarezgita",
+    "shape": "7"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "7"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Mulsinosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Iespaidiga",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Simetriska",
+    "shape": "15"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Iespaidiga",
+    "shape": "15"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Baudama",
+    "shape": "15"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Originala",
+    "shape": "17"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36649055",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Kartiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Radosa",
+    "shape": "1"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Sarezgita",
+    "shape": "2"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Kartiga",
+    "shape": "3"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Mulsinosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Sarezgita",
+    "shape": "5"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Iespaidiga",
+    "shape": "5"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Originala",
+    "shape": "6"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Baudama",
+    "shape": "6"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Baudama",
+    "shape": "8"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Kartiga",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Radosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Radosa",
+    "shape": "10"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "11"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Simetriska",
+    "shape": "12"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Nepatikama",
+    "shape": "13"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "14"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Iespaidiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Patikama",
+    "shape": "15"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Nepatikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36742362",
+    "aesth": "Nepatikama",
+    "shape": "17"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "1"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Sarezgita",
+    "shape": "1"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Iespaidiga",
+    "shape": "1"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "2"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Nepatikama",
+    "shape": "2"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "3"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Iespaidiga",
+    "shape": "3"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "3"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Sarezgita",
+    "shape": "4"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "4"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Baudama",
+    "shape": "4"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Patikama",
+    "shape": "5"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Mulsinosa",
+    "shape": "5"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Baudama",
+    "shape": "5"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Patikama",
+    "shape": "6"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Simetriska",
+    "shape": "6"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "7"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Mulsinosa",
+    "shape": "7"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Patikama",
+    "shape": "8"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Iespaidiga",
+    "shape": "8"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "8"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "9"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Mulsinosa",
+    "shape": "9"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Kartiga",
+    "shape": "10"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Nepatikama",
+    "shape": "10"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Kartiga",
+    "shape": "11"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Simetriska",
+    "shape": "11"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Kartiga",
+    "shape": "12"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Kartiga",
+    "shape": "13"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Simetriska",
+    "shape": "13"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Kartiga",
+    "shape": "14"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Simetriska",
+    "shape": "14"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "14"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Mulsinosa",
+    "shape": "15"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Patikama",
+    "shape": "16"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Originala",
+    "shape": "16"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Baudama",
+    "shape": "16"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Sarezgita",
+    "shape": "17"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Radosa",
+    "shape": "17"
+  },
+  {
+    "respID": "36752817",
+    "aesth": "Mulsinosa",
+    "shape": "17"
+  }
+]
