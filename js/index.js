@@ -1,8 +1,9 @@
-function init() {
+// ------------------------- match_emp_shp
+function initEmotions() {
     loadJSON(function(response) {
-        var actual_JSON = JSON.parse(response);
+        var actual_emo_JSON = JSON.parse(response);
 
-        listenToEmotionSelect(actual_JSON);
+        listenToEmotionSelect(actual_emo_JSON);
     });
 }
 
@@ -18,7 +19,7 @@ function loadJSON(callback) {
     xobj.send(null);  
 }
 
-function sort(emocija, json) {
+function sortEmo(emocija, json) {
     var bailes = Object.values(json).filter((n) => {
         return n[1] === emocija;
     });
@@ -39,18 +40,18 @@ function sort(emocija, json) {
 }
 
 function listenToEmotionSelect(json) {
-    sort("Prieks", json); // on initial call to draw bars for 'Prieks'
+    sortEmo("Prieks", json); // on initial call to draw bars for 'Prieks'
     document.querySelectorAll('.emotion').forEach(item => {
         item.addEventListener('click', event => {
-            removeActive();
-            sort(event.srcElement.id, json);
+            removeActiveEmo();
+            sortEmo(event.srcElement.id, json);
             event.srcElement.classList.add('activeEmo');
         })
     });
 }
 
-function removeActive() {
-    document.querySelectorAll('.emotion').forEach(item => {
+function removeActiveEmo() {
+    document.querySelectorAll('.activeEmo').forEach(item => {
         item.classList.remove('activeEmo');
     });
 }
@@ -104,7 +105,7 @@ function drawChart(values) {
 
     barSvg.append("text")             
         .attr("transform",
-              "translate(465, 240)")
+              "translate(470, 240)")
         .style("text-anchor", "middle")
         .text("Figūra");
 
@@ -137,4 +138,7 @@ function drawChart(values) {
         .delay(function(d,i){ return((i+1)*50)});
 }
 
-init();
+initEmotions();
+
+
+

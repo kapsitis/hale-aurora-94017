@@ -24,6 +24,7 @@ function sortShape(figura, json) {
     var figuras = Object.values(json).filter((n) => {
         return n.shape === figura;
     });
+    
     var resultShp = { 'Prieks':0.1, 'Milestiba':0.1, 
     'Apmierinajums':0.1, 'Mundrums':0.1, 
     'Ceriba':0.1, 'Sajusminajums':0.1, 
@@ -70,8 +71,7 @@ function drawShapeChart(values) {
     var barHeight = 210;
     var barPadding = 7;
     var barWidth = (charWidth / dataset.length);
-
-    var scale = svgHeight / dataset[0].value;
+    
     document.getElementById("shape-bars").remove()
     
     var barSvg = d3.select('#shape-div').append("svg").attr("id", "shape-bars");

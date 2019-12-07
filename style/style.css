@@ -47,7 +47,7 @@ flex-direction: row;
 .activeEmo {
 background: greenyellow !important;
 }
-p.activeShp, p.activeShpAsth {
+p.activeShp, p.activeShpAsth, p.activeShpRng {
 background: greenyellow ;
 }
 
@@ -58,7 +58,7 @@ margin: 10px;
 margin: 10px;
 }
 
-.shape, .shape-ast {
+.shape, .shape-ast, .shapeRange {
 background-repeat: no-repeat !important; 
 background-position: center !important; 
 height:40px;
