@@ -43,18 +43,19 @@
 \usepackage{hyperref}
 
 
-\hypersetup{
-pdfstartview={XYZ null null 1}}
+%\hypersetup{
+%pdfstartview={XYZ null null 1}}
 \begin{document}
-%\SweaveOpts{concordance=TRUE}
+
 <<setup22, include=FALSE, warning=FALSE, cache=FALSE>>=
-
-
 library(knitr)
 # set global chunk options
 opts_chunk$set(fig.path='figure/minimal-', fig.align='center', fig.show='hold')
 options(formatR.arrow=TRUE,width=90)
 @
+
+
+
 
 
 \title{Daudzdimensionālā mērogošana}

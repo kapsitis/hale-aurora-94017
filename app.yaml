@@ -1,4 +1,5 @@
 application: bustling-dynamo-253414
+#application: hale-aurora-94017
 version: 1
 runtime: python27
 api_version: 1
@@ -18,6 +19,9 @@ handlers:
 - url: /data-js
   static_dir: data-js  
   # json files
+
+- url: /markdown-html
+  static_dir: markdown-html
 
 - url: /service
   script: service.app

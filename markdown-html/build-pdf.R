@@ -5,7 +5,6 @@ require(ggplot2)
 require(dplyr)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-#setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
 
 if (!file.exists(getwd())) {
   print(sprintf("Working directory %s does not exist!", getwd()))
