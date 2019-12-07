@@ -7,7 +7,7 @@ library(pheatmap)
 ###################################################################
 
 #setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
+#setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
 df <- read.table("RawData-emotions-shapes.csv", header=TRUE,sep=",")
 
 emotions <- c("Prieks",
@@ -291,7 +291,7 @@ write.table(rangeDF2, file="match_shp_ranges_raw2.csv", quote = TRUE,  col.names
 ##########################################
 
 
-getMatrix <- function() {
+getSDMatrix <- function() {
   pictureIDs <- c("1","6", "7", "8", "9", "10", "11", "13", "14", "15", "16", "17")
   scaleIDs <- c("rLaimNelaim", "rCerIzmis", "rUztrMier", "rBrivIerob", "rApmAizkait", "rInterGarl", "rPatNepat")
   mat <- matrix(rep(0,times=12*7), nrow = 12, ncol = 7, dimnames = list(pictureIDs,scaleIDs))
@@ -308,6 +308,7 @@ getMatrix <- function() {
     }
   }
   
+  return(mat)
 }
 
 #png(file = "heatmap-sd-shape-intervals-dataset2.png", bg = "transparent", type="cairo", units="in", width=5,  height=4, pointsize=12, res=96)

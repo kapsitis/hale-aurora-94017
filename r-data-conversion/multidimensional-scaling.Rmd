@@ -11,19 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Daudzdimensiju mērogošana
 
-Daudzdimensiju mērogošana ir paņēmienu kopums, kas pārveido galīgu 
-kopu ar uzdotu savstarpējo
-*attālumu matricu* (*distance matrix*) par punktiem n-dimensiju Dekarta telpā. 
 
-```
-```
+
 
 
 
 ```{r heatmap, echo=FALSE, error=FALSE, warning=FALSE}
-library(jsonlite)
-library(pheatmap)
-setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
-source("skripts.R")
-pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, cluster_rows=F, cluster_cols=F)
+#library(jsonlite)
+#library(pheatmap)
+#setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
+#source("skripts.R")
+#pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, #cluster_rows=F, cluster_cols=F)
+
 ```
