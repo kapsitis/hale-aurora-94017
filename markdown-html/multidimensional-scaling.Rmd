@@ -196,7 +196,7 @@ grid()
 
 Interpretēt šo zīmējumu ir grūti, kamēr mēs nezinām, kādu nozīmi aptaujātie
 piedēvēja dažādajām emociju skalām. Mēs, piemēram, varam pateikt, 
-ka attālums $d(S_3, S_11) = 80.97$ (attālums starp apli 
+ka attālums $d(S_3, S_{11}) = 80.97$ (attālums starp apli 
 un spirāli) ir viens no lielākajiem visā attālumu tabulā, tādēļ 
 arī "iebāžot" 7-dimensiju telpu 2-dimensiju telpā, atbilstošie
 punkti $S_3$ un $S_{11}$ būs pietiekami tālu viens no otra - 
@@ -259,7 +259,8 @@ kleksis).
 ## Citi avoti
 
 * [D3 Diagrammas figūriņām/emocijām](http://bustling-dynamo-253414.appspot.com/).
-* [Par daudzdimensiju mērogošanu](https://en.wikipedia.org/wiki/Multidimensional_scaling)
+* [Par daudzdimensiju mērogošanu (MDS)](https://en.wikipedia.org/wiki/Multidimensional_scaling)
+* [Kā daudzdimensiju mērogošanu zīmēt ar R](https://www.r-bloggers.com/multidimensional-scaling-mds-with-r/)
 * [Knitr ar Markdown: Lapā izmantotā tehnoloģija](https://yihui.org/knitr/demo/minimal/)
 
 
