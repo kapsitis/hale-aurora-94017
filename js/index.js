@@ -10,7 +10,7 @@ function initEmotions() {
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    xobj.open('GET', './data-js/match_emo_shp.json', true);
+    xobj.open('GET', '../data-js/match_emo_shp.json', true);
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -97,7 +97,7 @@ function drawChart(values) {
     barSvg.select(".axis").selectAll(".tick")
         .data(dataset)
         .append("svg:image")
-        .attr("xlink:href", function (d) { return "./shape_svg/" + d.key + ".svg" })
+        .attr("xlink:href", function (d) { return "../shape_svg/" + d.key + ".svg" })
         .attr("width", 20)
         .attr("height", 20)
         .attr("x", -10)

@@ -1,0 +1,108 @@
+\documentclass[11pt]{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{changepage}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{gensymb}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{tabularx}
+\usepackage{lipsum}
+\usepackage{hyperref}
+
+\oddsidemargin 0.0in
+\evensidemargin 0.0in
+\textwidth 6.27in
+\headheight 1.0in
+\topmargin -0.1in
+\headheight 0.0in
+\headsep 0.0in
+\textheight 9.0in
+
+\setlength\parindent{0pt}
+
+\newenvironment{myenv}{\begin{adjustwidth}{0.4in}{0.4in}}{\end{adjustwidth}}
+\renewcommand{\abstractname}{Anotācija}
+\renewcommand{\figurename}{Attēls}
+\renewcommand{\tablename}{Tabula}
+\renewcommand{\refname}{Atsauces}
+
+
+
+\newcounter{alphnum}
+\newenvironment{alphlist}{\begin{list}{(\Alph{alphnum})}{\usecounter{alphnum}\setlength{\leftmargin}{2.5em}} \rm}{\end{list}}
+
+
+
+\makeatletter
+\let\saved@bibitem\@bibitem
+\makeatother
+
+\usepackage{bibentry}
+\usepackage{hyperref}
+
+
+%\hypersetup{
+%pdfstartview={XYZ null null 1}}
+\begin{document}
+
+<<setup22, include=FALSE, warning=FALSE, cache=FALSE>>=
+library(knitr)
+# set global chunk options
+opts_chunk$set(fig.path='figure/minimal-', fig.align='center', fig.show='hold')
+options(formatR.arrow=TRUE,width=90)
+@
+
+
+
+
+
+\title{Daudzdimensionālā mērogošana}
+
+\author{}
+\date{}
+
+\maketitle
+
+\begin{abstract}
+Daudzdimensiju mērogošana ir paņēmienu kopums, 
+kas pārveido galīgu kopu ar uzdotu savstarpējo
+{\em attālumu matricu} ({\em distance matrix}) 
+par punktiem n-dimensiju Dekarta telpā. 
+\end{abstract}
+
+<<external-code, cache=FALSE, warning=FALSE, echo=FALSE, results='hide', message=FALSE>>=
+
+#setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
+
+require(plyr)
+require(ggplot2)
+require(grid)
+require(xtable)
+require(RColorBrewer)
+
+@
+
+
+<<first-diagram, warning=FALSE, echo=FALSE, fig.width=4, fig.height=3, fig.cap='ABC', dev='CairoPDF'>>=
+
+#pie(rep(1,24), col=rainbow(24))
+require(pheatmap)
+mat <- getSDMatrix()
+pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, cluster_rows=F, cluster_cols=F)
+#p <- ggplot(df2, aes(avgHours, evAssignments)) +
+#  geom_point(stat="identity")
+#p
+@
+
+
+
+
+
+
+
+\end{document}
+
+
+

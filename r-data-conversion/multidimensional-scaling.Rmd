@@ -1,0 +1,26 @@
+---
+title: "multidimensional-scaling"
+author: "Kalvis Apsitis"
+date: "December 5, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Daudzdimensiju mērogošana
+
+
+
+
+
+
+```{r heatmap, echo=FALSE, error=FALSE, warning=FALSE}
+#library(jsonlite)
+#library(pheatmap)
+#setwd("/home/kalvis/workspace/hale-aurora-94017/r-data-conversion")
+#source("skripts.R")
+#pheatmap(t(mat), treeheight_row = 0, treeheight_col = 0, #cluster_rows=F, cluster_cols=F)
+
+```

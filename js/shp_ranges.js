@@ -8,7 +8,7 @@ function initRanges() {
 function loadRangeJSON(callback) {
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', './data-js/match_shp_ranges1.json', true);
+    xobj.open('GET', '../data-js/match_shp_ranges1.json', true);
     xobj.onreadystatechange = function () {
         if (xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -75,7 +75,7 @@ function removeActiveShpRange() {
 function drawShapeRange(values) {
     var dataset = values;
 
-    var svgWidth = 600;
+    var svgWidth = 535;
     var charWidth = 410;
     var svgHeight = 300;
     var chartHeight = 270;
@@ -124,26 +124,30 @@ function drawShapeRange(values) {
         .domain(dataset.map(function(d) { return labels2[d.key]; }))
         .padding(.2);
     
+
+    var rightMargin = svgWidth - charWidth - 60;
+    var mid = rightMargin + 205;
+    var end = mid + 205;
     // labels on x
     barSvgRange.append("g")
-        .attr("transform", "translate(130, 270)")
+        .attr("transform", "translate(" + rightMargin + ", 270)")
         .call(d3.axisBottom(x));
 
     // labels on y
     barSvgRange.append("g")
         .call(d3.axisLeft(y))
-        .attr("transform", "translate(130, 0)")
+        .attr("transform", "translate(" + rightMargin + ", 0)")
         .attr("id", "main-y")
         .attr("fill", "#f65c78");
 
     barSvgRange.append("g")
         .call(d3.axisLeft(y2))
-        .attr("transform", "translate(335, 0)")
+        .attr("transform", "translate(" + mid + ", 0)")
         .style("opacity", 0.2);
 
     barSvgRange.append("g")
         .call(d3.axisRight(y3))
-        .attr("transform", "translate(540, 0)")
+        .attr("transform", "translate(" + end + ", 0)")
         .style("fill", "#c3f584");
 
     barSvgRange.selectAll("rect")

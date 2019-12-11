@@ -1,163 +1,28 @@
 <html>
 <head>
-<title>Lapa</title>
-<link rel="stylesheet" type="text/css" href="style/style.css">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="./style/style.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-    crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-    crossorigin="anonymous"></script>
-
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
+    <title>Lapa</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+        crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
 </head>
 <body>
 
-<h1>Emociju un Figūru attiecības</h1>
-
-    <div>
-        <div class="w3-container" id="test">
-            <div class="emotion-box">
-                <div class="row">
-                    <div class="column">
-                        <p id="Prieks" class="emotion activeEmo">Prieks</p>
-                        <p id="Milestiba" class="emotion">Mīlestība</p>
-                        <p id="Apmierinajums" class="emotion">Apmierinājums</p>
-                        <p id="Mundrums" class="emotion">Mundrums</p>
-                        <p id="Ceriba" class="emotion">Cerība</p>
-                        <p id="Sajusminajums" class="emotion">Sajūsminājums</p>
-                    </div>
-                    <div class="column">
-                        <p id="Bazas" class="emotion">Bažas</p>
-                        <p id="Skumjas" class="emotion">Skumjas</p>
-                        <p id="Riebums" class="emotion">Riebums</p>
-                        <p id="Dusmas" class="emotion">Dusmas</p>
-                        <p id="Vaina" class="emotion">Vaina</p>
-                        <p id="Bailes" class="emotion">Bailes</p>
-                    </div>
-                    <div class="column emotion-div" id="emotion-div">
-                        <svg id="emotion-bars"></svg>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <script src="./js/index.js"></script>
-
-        <div class="w3-container" id="test2">
-            <div class="emotion-box">
-                <div class="row">
-                    <div class="column">
-                        <p id="1" class="shape activeShp" style="background-image: url(shape_svg/1.svg);"></p>
-                        <p id="2" class="shape" style="background-image: url(shape_svg/2.svg);"></p>
-                        <p id="3" class="shape" style="background-image: url(./shape_svg/3.svg);"></p>
-                        <p id="4" class="shape" style="background-image: url(./shape_svg/4.svg);"></p>
-                        <p id="5" class="shape" style="background-image: url(./shape_svg/5.svg);"></p>
-                        <p id="6" class="shape" style="background-image: url(./shape_svg/6.svg);"></p>
-                        
-                    </div>
-                    <div class="column">
-                        <p id="7" class="shape" style="background-image: url(./shape_svg/7.svg);"></p>
-                        <p id="8" class="shape" style="background-image: url(./shape_svg/8.svg);"></p>
-                        <p id="9" class="shape" style="background-image: url(./shape_svg/9.svg);"></p>
-                        <p id="10" class="shape" style="background-image: url(./shape_svg/10.svg);"></p>
-                        <p id="11" class="shape" style="background-image: url(./shape_svg/11.svg);"></p>
-                        <p id="12" class="shape" style="background-image: url(./shape_svg/12.svg);"></p>
-                    </div>
-                    <div class="column">
-                            <p id="13" class="shape" style="background-image: url(./shape_svg/13.svg);"></p>
-                        <p id="14" class="shape" style="background-image: url(./shape_svg/14.svg);"></p>
-                        <p id="15" class="shape" style="background-image: url(./shape_svg/15.svg);"></p>
-                        <p id="16" class="shape" style="background-image: url(./shape_svg/16.svg);"></p>
-                        <p id="17" class="shape" style="background-image: url(./shape_svg/17.svg);"></p>
-                    </div>
-                    <div class="column shape-div" id="shape-div">
-                        <svg id="shape-bars"></svg>
-                    </div>
-                </div>  
-            </div>
-        </div>
-        <script src="./js/shp_emp.js"></script>
-
-        <div class="w3-container" id="test">
-            <div class="emotion-box">
-                <div class="row">
-                    <div class="column">
-                        <p id="1" class="shape-ast activeShpAsth" style="background-image: url(shape_svg/1.svg);"></p>
-                        <p id="2" class="shape-ast" style="background-image: url(shape_svg/2.svg);"></p>
-                        <p id="3" class="shape-ast" style="background-image: url(./shape_svg/3.svg);"></p>
-                        <p id="4" class="shape-ast" style="background-image: url(./shape_svg/4.svg);"></p>
-                        <p id="5" class="shape-ast" style="background-image: url(./shape_svg/5.svg);"></p>
-                        <p id="6" class="shape-ast" style="background-image: url(./shape_svg/6.svg);"></p>
-                        
-                    </div>
-                    <div class="column">
-                        <p id="7" class="shape-ast" style="background-image: url(./shape_svg/7.svg);"></p>
-                        <p id="8" class="shape-ast" style="background-image: url(./shape_svg/8.svg);"></p>
-                        <p id="9" class="shape-ast" style="background-image: url(./shape_svg/9.svg);"></p>
-                        <p id="10" class="shape-ast" style="background-image: url(./shape_svg/10.svg);"></p>
-                        <p id="11" class="shape-ast" style="background-image: url(./shape_svg/11.svg);"></p>
-                        <p id="12" class="shape-ast" style="background-image: url(./shape_svg/12.svg);"></p>
-                    </div>
-                    <div class="column">
-                            <p id="13" class="shape-ast" style="background-image: url(./shape_svg/13.svg);"></p>
-                        <p id="14" class="shape-ast" style="background-image: url(./shape_svg/14.svg);"></p>
-                        <p id="15" class="shape-ast" style="background-image: url(./shape_svg/15.svg);"></p>
-                        <p id="16" class="shape-ast" style="background-image: url(./shape_svg/16.svg);"></p>
-                        <p id="17" class="shape-ast" style="background-image: url(./shape_svg/17.svg);"></p>
-                    </div>
-                    <div class="column ashetics-div" id="ashetics-div">
-                        <svg id="ashetics-pie"></svg>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <script src="./js/aesth_shp1.js"></script>
-
-        <div class="w3-container" id="test">
-            <div class="emotion-box">
-                <div class="row">
-                    <div class="column">
-                        <p id="1" class="shapeRange activeShpRng" style="background-image: url(shape_svg/1.svg);"></p>
-                        <p id="2" class="shapeRange" style="background-image: url(shape_svg/2.svg);"></p>
-                        <p id="3" class="shapeRange" style="background-image: url(./shape_svg/3.svg);"></p>
-                        <p id="4" class="shapeRange" style="background-image: url(./shape_svg/4.svg);"></p>
-                        <p id="5" class="shapeRange" style="background-image: url(./shape_svg/5.svg);"></p>
-                        <p id="6" class="shapeRange" style="background-image: url(./shape_svg/6.svg);"></p>
-                        
-                    </div>
-                    <div class="column">
-                        <p id="7" class="shapeRange" style="background-image: url(./shape_svg/7.svg);"></p>
-                        <p id="8" class="shapeRange" style="background-image: url(./shape_svg/8.svg);"></p>
-                        <p id="9" class="shapeRange" style="background-image: url(./shape_svg/9.svg);"></p>
-                        <p id="10" class="shapeRange" style="background-image: url(./shape_svg/10.svg);"></p>
-                        <p id="11" class="shapeRange" style="background-image: url(./shape_svg/11.svg);"></p>
-                    </div>
-                    <div class="column">
-                        <p id="13" class="shapeRange" style="background-image: url(./shape_svg/13.svg);"></p>
-                        <p id="14" class="shapeRange" style="background-image: url(./shape_svg/14.svg);"></p>
-                        <p id="15" class="shapeRange" style="background-image: url(./shape_svg/15.svg);"></p>
-                        <p id="16" class="shapeRange" style="background-image: url(./shape_svg/16.svg);"></p>
-                        <p id="17" class="shapeRange" style="background-image: url(./shape_svg/17.svg);"></p>
-                    </div>
-                    <div class="column range-div" id="range-div">
-                        <svg id="range-diag"></svg>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <script src="./js/shp_ranges.js"></script>
-    </div>
-
+<h1>Diagrammas par figūriņām/emocijām</h1>
+    <ul>
+        <li><a href="./htmls/simple-diagrams.html">Figūru un emociju attiecības</a></li>
+        <li><a href="http://hale-aurora-94017.appspot.com/markdown-html/multidimensional-scaling.html">Daudzdimensiju mērogošana</a></li>
+    </ul>
 </body>
 
 </html>

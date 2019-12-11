@@ -2,3 +2,7 @@
 home.pyc
 priv-*
 run-server.sh
+*.sty
+*.log
+*.aux
+
