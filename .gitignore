@@ -5,4 +5,5 @@ run-server.sh
 *.sty
 *.log
 *.aux
-
+.project
+.pydevproject

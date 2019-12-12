@@ -30,6 +30,10 @@ handlers:
 - url: /style
   static_dir: style
 
+- url: /schoolmap
+  static_dir: schoolmap
+  # AMO related stuff
+
 libraries:
 - name: webapp2
   version: "2.5.2"
