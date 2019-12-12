@@ -1,0 +1,63 @@
+---
+title: "AMO Rezultāti"
+output: html_document
+---
+
+```{r setup, echo=FALSE, error=FALSE, warning=FALSE}
+# set global chunk options: images will be 7x5 inches
+library(kableExtra)
+library(pheatmap)
+library(ggplot2)
+require(dplyr)
+knitr::opts_chunk$set(fig.width=7, fig.height=5)
+options(digits = 4)
+
+makeTables()
+```
+
+[Uz sākumu](../index.html)
+
+# AO Dati 
+
+## AO Aktivitāte
+
+```{r, echo=FALSE, error=FALSE, warning=FALSE}
+participantsByGender <- getParticipantsByGender()
+participantsByGender <- participantsByGender[,c("males", "females", "total", "schoolAge", "activity")]
+kable(participantsByGender) %>%
+kable_styling("striped", full_width = F) %>%
+row_spec(1:9, bold = F, color = "white", background = "#800000") 
+```
+
+```{r barchart1, echo=FALSE, error=FALSE, warning=FALSE, fig.width=6, fig.height=4, fig.cap='*Attēls: AO Aktivitāte*'}
+participantsStacked <- getParticipantsStacked()
+ggplot(participantsStacked, aes(fill=gender, y=total, x=year)) + 
+    geom_bar(position="stack", stat="identity")
+```
+
+
+## Aktivitāte pa klasēm
+
+```{r barchart2, echo=FALSE, error=FALSE, warning=FALSE, fig.width=6, fig.height=4, fig.cap='*Attēls: AO Aktivitāte*'}
+newDF <- getAllResults(2019)
+newDF$gender <- getGender(newDF$Firstname)
+newDF$Grade[newDF$Grade < 5] <- 5
+result <- newDF %>% count(Grade, gender)
+ggplot(result, aes(y=n, x=Grade, fill=gender)) + 
+    geom_bar(stat="identity")
+```
+
+
+
+
+
+## Datu avoti
+
+* [VISC Eksāmenu dati](http://bustling-dynamo-253414.appspot.com/).
+* [Par daudzdimensiju mērogošanu (MDS)](https://en.wikipedia.org/wiki/Multidimensional_scaling)
+* [Kā daudzdimensiju mērogošanu zīmēt ar R](https://www.r-bloggers.com/multidimensional-scaling-mds-with-r/)
+* [Knitr ar Markdown: Lapā izmantotā tehnoloģija](https://yihui.org/knitr/demo/minimal/)
+
+
+
+
