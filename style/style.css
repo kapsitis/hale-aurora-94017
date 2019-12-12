@@ -1,5 +1,81 @@
 body {
-  margin: 5%;
-  font-family: Arial;
+  background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
+body,h1,h2,h3,h4,h5 {
+  font-family: "Raleway", sans-serif
+}
+.container {
+  max-width: 1100px;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.svg-container {
+  background-color: #FFC988;
+}
+.p-2 {
+  padding: 2rem !important;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  min-width: 100px;
+  width: auto;
+  text-align: center;
+}
+
+.column p {
+  padding: 5px 0;
+  background: pink;
+  border-radius: 5px;
+  margin: 2px 3px;
+}
+
+.column p:hover {
+  padding: 5px 0;
+  background: palevioletred;
+  margin: 0;
+  cursor: pointer;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.activeEmo {
+  background: greenyellow !important;
+}
+p.activeShp, p.activeShpAsth, p.activeShpRng {
+  background: greenyellow ;
+}
+
+.emotion-box {
+  margin: 10px;
+}
+.emotion-div {
+  margin: 10px;
+}
+
+.shape, .shape-ast, .shapeRange {
+  background-repeat: no-repeat !important; 
+  background-position: center !important; 
+  height:40px;
+}

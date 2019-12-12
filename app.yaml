@@ -20,6 +20,17 @@ handlers:
   static_dir: data-js  
   # json files
 
+- url: /js
+  static_dir: js 
+  # js files
+
+- url: /htmls
+  static_dir: htmls
+  # html files
+
+- url: /shape_svg
+  static_dir: shape_svg
+  # js files
 - url: /markdown-html
   static_dir: markdown-html
 
