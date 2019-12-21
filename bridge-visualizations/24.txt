@@ -1,0 +1,31 @@
+                                               
+ 24     A3                                     
+ West   J82                                    
+ None   108                                    
+        Q98752                                 
+ 7             Q62                             
+ Q1075         A643                            
+ AKQ63         752                             
+ A106          KJ4                             
+        KJ109854                               
+        K9                                     
+        J94                                    
+        3                                      
+                                               
+ 5D W -400                                     
+        C  D  H  S  N                          
+ NS     5  2  2  8  4                          
+ EW     8 11 10  5  6                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   1     7  3  3S   S -1 D2        -50  10  0  
+   3     1 10  4Sx  S -1 H7       -100   7  3  
+   5     6  9  3Sx  S -1 DA       -100   7  3  
+   6     5 12  4Sx  S -2 DK       -300   3  7  
+   8    11  8  4Sx  S -2 DA       -300   3  7  
+   9     4  2  4H   E +1 C3       -450   0 10  
+                                               
+                                               

@@ -1,0 +1,31 @@
+                                               
+ 5      AJ873                                  
+ North  J62                                    
+ N-S    QJ64                                   
+        6                                      
+ ---           KQ94                            
+ K87           AQ4                             
+ K73           1092                            
+ AKQ9754       J82                             
+        10652                                  
+        10953                                  
+        A85                                    
+        103                                    
+                                               
+ 5N E -460                                     
+        C  D  H  S  N                          
+ NS     2  4  4  6  2                          
+ EW    11  8  8  7 11                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   2    11  2  6C   E  = DA       -920   2  8  
+   3     8  6  5C   E +1 S6       -420   6  4  
+   5     1  7  4N   W +1 S7       -460   4  6  
+   7     5  4  5C   E  = S4       -400   8  2  
+   9    10  3  3C   E +1 S6       -130  10  0  
+   10    9 12  6Cx  W  = SA      -1090   0 10  
+                                               
+                                               

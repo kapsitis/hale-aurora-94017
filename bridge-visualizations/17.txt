@@ -1,0 +1,31 @@
+                                               
+ 17     AQJ106                                 
+ North  AQ10                                   
+ None   KJ4                                    
+        J9                                     
+ 542           987                             
+ 8653          J4                              
+ 109863        Q72                             
+ 8             AQ764                           
+        K3                                     
+        K972                                   
+        A5                                     
+        K10532                                 
+                                               
+ 6N N 990                                      
+        C  D  H  S  N                          
+ NS    11  9 11 11 12                          
+ EW     2  4  1  1  1                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   1     9  8  3N   N +4 C4    520       6  4  
+   3     4  7  5S   N +1 HJ    480       2  8  
+   4     3 12  4N   S  = D10   430       0 10  
+   6    11  6  3N   N +4 C6    520       6  4  
+   7     2 10  6N   N  = D7    990      10  0  
+   9     5  1  3N   N +4 C6    520       6  4  
+                                               
+                                               

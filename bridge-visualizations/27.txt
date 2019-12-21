@@ -1,0 +1,31 @@
+                                               
+ 27     9                                      
+ South  J1076                                  
+ None   K942                                   
+        J765                                   
+ QJ87652       AK                              
+ K2            Q853                            
+ J75           1083                            
+ 9             A843                            
+        1043                                   
+        A94                                    
+        AQ6                                    
+        KQ102                                  
+                                               
+ 4Cx S -100                                    
+        C  D  H  S  N                          
+ NS     9  7  8  4  5                          
+ EW     3  4  5  9  4                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   2     8  4  1N   S +1 S7    120      10  0  
+   4     2  1  3S   W  = HJ       -140   6  4  
+   6     7 10  2S   W +1 D2       -140   6  4  
+   7    12  6  4Sx  W  = D2       -590   0 10  
+   9    11  9  2S   W +3 S9       -200   2  8  
+   10    5  3  2S   W +1 HJ       -140   6  4  
+                                               
+                                               

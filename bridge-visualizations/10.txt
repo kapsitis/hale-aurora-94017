@@ -1,0 +1,31 @@
+                                               
+ 10     A9                                     
+ East   Q9                                     
+ All    Q10984                                 
+        A1083                                  
+ KJ108         52                              
+ K62           AJ8754                          
+ 72            63                              
+ J754          Q62                             
+        Q7643                                  
+        103                                    
+        AKJ5                                   
+        K9                                     
+                                               
+ 4D S 130                                      
+        C  D  H  S  N                          
+ NS     7 10  5  8  7                          
+ EW     4  3  7  5  5                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   1     2  5  3Hx  E -1 DA    200      10  0  
+   2     1 12  4S   S -1 C4       -100   1  9  
+   4    11  4  2S   S  = D7    110       5  5  
+   5    10  8  4D   N  = HA    130       8  2  
+   7     3  9  2S   S  = D2    110       5  5  
+   9     7  6  3S   S -1 H2       -100   1  9  
+                                               
+                                               

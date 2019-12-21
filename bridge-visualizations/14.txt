@@ -1,0 +1,31 @@
+                                               
+ 14     1083                                   
+ East   J62                                    
+ None   K1065                                  
+        AJ2                                    
+ Q52           976                             
+ K975          AQ10                            
+ 8432          97                              
+ 43            109765                          
+        AKJ4                                   
+        843                                    
+        AQJ                                    
+        KQ8                                    
+                                               
+ 3N S 400                                      
+        C  D  H  S  N                          
+ NS     8  9  7  9  9                          
+ EW     5  4  5  4  4                          
+                                               
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   2     3  6  3N   S  = H5    400       5  5  
+   3    12  2  3N   S  = H5    400       5  5  
+   5    11  5  3N   S +1 H5    430       8  2  
+   6     1  9  6N   S -2 H5       -100   0 10  
+   8     4 10  2N   S +1 C2    150       2  8  
+   10    8  7  3N   S +2 S2    460      10  0  
+                                               
+                                               

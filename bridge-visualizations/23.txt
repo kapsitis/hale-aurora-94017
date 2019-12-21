@@ -1,0 +1,31 @@
+                                               
+ 23     AKJ98763                               
+ South  K9                                     
+ All    103                                    
+        3                                      
+ Q102          ---                             
+ A74           1083                            
+ A976          KJ842                           
+ K54           AJ1086                          
+        54                                     
+        QJ652                                  
+        Q5                                     
+        Q972                                   
+                                               
+ 6Sx S -1100                                   
+        C  D  H  S  N                          
+ NS     3  1  5  8  4                          
+ E     10 12  8  4  5                          
+ W      :  :  :  5  9                          
+                                               
+                                               
+                                               
+ Round   Pair  Contr     Ld     Result  Score  
+   1     7  3  5D   W +1 SA       -620   4  6  
+   3     1 10  5D   W +1 SA       -620   4  6  
+   5     6  9  5D   W +1 SK       -620   4  6  
+   6     5 12  6D   E  = S5      -1370   0 10  
+   8    11  8  3S   N  = D2    140      10  0  
+   9     4  2  5D   W  = SA       -600   8  2  
+                                               
+                                               
