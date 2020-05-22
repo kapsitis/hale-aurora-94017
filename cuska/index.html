@@ -1,0 +1,170 @@
+
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Snake Game</title>
+<style type="text/css">
+body {text-align:center;}
+h1 { font-size:60px; text-align: center; margin: 0; padding-bottom: 15px;}
+canvas { border:16px dotted #05F98A }
+</style>
+<script type="text/javascript">
+function play_game()
+{
+var level = 135;
+var rect_w = 45;
+var rect_h = 30;
+var inc_score = 30;
+var snake_color = "#009900" 
+var ctx;
+var tn = [];
+var x_dir = [-1, 0, 1, 0];
+var y_dir = [0, -1, 0, 1];
+var queue = [];
+var frog = 1;
+var map = [];
+var MR = Math.random;
+var X = 5 + (MR() * (rect_w - 10))|0;
+var Y = 5 + (MR() * (rect_h - 10))|0; 
+var direction = MR() * 3 | 0;
+var interval = 5;
+var score = 0;
+var highscore = localStorage.getItem("highscore");
+
+if(highscore !== null){
+    if (score > highscore) {
+        localStorage.setItem("highscore", score);      
+    }
+}
+else{
+    localStorage.setItem("highscore", score);
+}
+var sum = 0, easy = 0;
+var i, dir;
+var c = document.getElementById('playArea');
+ctx = c.getContext('2d');
+for (i = 0; i < rect_w; i++)
+{
+map[i] = [];
+}
+function rand_frog()
+{
+var x, y, x1, y1, x2, y2;
+do
+{
+x = MR() * rect_w|0;
+y = MR() * rect_h|0;
+x1 = MR() * rect_w|0;
+y1 = MR() * rect_h|0;
+x2 = MR() * rect_w|0;
+y2 = MR() * rect_h|0;
+}
+while (map[x][y]);
+map[x][y] = 1;
+map[x1][y1] = 1;
+map[x2][y2] = 1;
+ctx.fillStyle = snake_color;
+var gradient = ctx.createLinearGradient(0, 0, 170, 0);
+gradient.addColorStop("0", "magenta");
+gradient.addColorStop("0.5" ,"blue");
+gradient.addColorStop("1.0", "red");
+ctx.strokeStyle = gradient;
+ctx.lineWidth = 5;
+ctx.strokeRect(x * 10+1, y * 10+1, 5, 5);
+ctx.strokeRect(x1 * 10+3, y1 * 10+3, 5, 5);
+ctx.strokeRect(x2 * 10+2, y2 * 10+2, 5, 5);
+}
+rand_frog();
+function set_game_speed()
+{
+if (easy)
+{
+X = (X+rect_w)%rect_w;
+Y = (Y+rect_h)%rect_h;
+}
+--inc_score;
+if (tn.length)
+{
+dir = tn.pop();
+if ((dir % 2) !== (direction % 2))
+{
+direction = dir;
+}
+}
+if ((easy || (0 <= X && 0 <= Y && X < rect_w && Y < rect_h)) && 2 !== map[X][Y])
+{
+if (1 === map[X][Y])
+{
+score+= Math.max(10, inc_score);
+inc_score = 50;
+rand_frog();
+frog++;
+
+}
+ctx.fillRect(X * 10, Y * 10, 9, 9);
+map[X][Y] = 2;
+queue.unshift([X, Y]);
+X+= x_dir[direction];
+Y+= y_dir[direction];
+if (frog < queue.length)
+{
+dir = queue.pop()
+map[dir[0]][dir[1]] = 0;
+ctx.clearRect(dir[0] * 10, dir[1] * 10, 10, 10);
+}
+}
+else if (!tn.length)
+{
+var msg_score = document.getElementById("msg");
+msg_score.innerHTML = "Thanks for playing game.<br /> Your Score : <b>"+score+"</b><br /><br /><input type='button' value='Try Better' onclick='window.location.reload();' />";
+document.getElementById("playArea").style.display = 'up';
+window.clearInterval(interval);
+}
+}
+interval = window.setInterval(set_game_speed, level);
+document.onkeydown = function(e) {
+var code = e.keyCode - 37;
+if (0 <= code && code < 4 && code !== tn[0])
+{
+tn.unshift(code);
+}
+else if (-5 == code)
+{
+if (interval)
+{
+window.clearInterval(interval);
+interval = 0;
+}
+else
+{
+interval = window.setInterval(set_game_speed, 60);
+}
+}
+else
+{
+dir = sum + code;
+if (dir == 64||dir==97||dir==132||dir==177) {
+sum+= code
+} else if (dir === 218) easy = 1;
+}
+}
+}
+</script>
+</head>
+<body onload="play_game()">
+<h1>˜”*°•.˜”*°• 𝓢𝓷𝓪𝓴𝓮 𝓖𝓪𝓶𝓮 •°*”˜.•°*”˜</h1>
+<div id="msg"></div>
+<canvas id="playArea" width="450" height="300" style="background-color: F99105;"></canvas>
+</body>
+</html>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-55449998-1', 'auto');
+ga('send', 'event', 'RunPgm');
+</script>
+
