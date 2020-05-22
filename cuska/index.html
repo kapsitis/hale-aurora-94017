@@ -9,18 +9,18 @@ h1 { font-size:60px; text-align: center; margin: 0; padding-bottom: 15px;}
 canvas { border:16px dotted #05F98A }
 </style>
 <script type="text/javascript">
-function  displayScore() {
+function  displayScore(ss) {
   var msg_score = document.getElementById("msg0Score");
-  msg_score.innerHTML="17"
+  msg_score.innerHTML=""+ss
 }
 
 function play_game()
 {
-displayScore();
 var level = 135;
 var rect_w = 45;
 var rect_h = 30;
 var inc_score = 30;
+displayScore(inc_score);
 var snake_color = "#009900" 
 var ctx;
 var tn = [];
@@ -103,6 +103,7 @@ if (1 === map[X][Y])
 {
 score+= Math.max(10, inc_score);
 inc_score = 50;
+displayScore(inc_score);
 rand_frog();
 frog++;
 
