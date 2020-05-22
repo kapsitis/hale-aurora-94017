@@ -9,13 +9,14 @@ h1 { font-size:60px; text-align: center; margin: 0; padding-bottom: 15px;}
 canvas { border:16px dotted #05F98A }
 </style>
 <script type="text/javascript">
-var msg_score = document.getElementById("msg0Score");
 function  displayScore() {
+  var msg_score = document.getElementById("msg0Score");
   msg_score.innerHTML="17"
 }
 
 function play_game()
 {
+displayScore();
 var level = 135;
 var rect_w = 45;
 var rect_h = 30;
@@ -158,7 +159,7 @@ sum+= code
 </head>
 <body onload="play_game()">
 <h1>˜”*°•.˜”*°• 𝓢𝓷𝓪𝓴𝓮 𝓖𝓪𝓶𝓮 •°*”˜.•°*”˜</h1>
-<div id="msg0">Your Score : <b onload="displayScore()" id="msg0Score"></b></div>
+<div id="msg0">Your Score : <b id="msg0Score"></b></div>
 <div id="msg"></div>
 <canvas id="playArea" width="450" height="300" style="background-color: F99105;"></canvas>
 </body>
